@@ -1,0 +1,84 @@
+/* Jumbotron */
+.jumbotron {
+    background-image: url(../img/Jumbotron-Background-Warm.png);
+    background-size: 100% 100%;
+    height: 40em;
+    width: 100%;
+}
+
+.jumbo-slogan {
+    font-family: 'Montserrat', sans-serif;
+    color: yellow;
+    font-weight: 400;
+}
+
+.jumbo-text {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 400;
+}
+
+.jumbotron p {
+    font-size: 18.5px;
+}
+.logo {
+    width: 50%;
+    height: 50%;
+}
+
+/* Contact Form */
+.contact-form{
+    background-color: rgba(7, 7, 53, 0);
+    padding: 30px;
+    border-radius: 2%;
+    margin-top: 20%;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+label {
+    font-family: 'Montserrat', sans-serif;
+    color: yellow;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.submit-btn {
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 400;
+    background-color: rgb(0, 255, 242);
+    margin-top: 40px;
+    width: 100%;
+}
+
+.btn:hover {
+    color: yellow;
+}
+
+/* Content */
+.content {
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+}
+
+.icon {
+    padding-bottom: 30px;
+}
+
+.btn-row {
+    text-align: center;
+}
+
+.bottom-btn {
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 400;
+    background-color: rgb(0, 255, 242);
+}
